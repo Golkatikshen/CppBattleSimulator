@@ -1,1 +1,1 @@
-# CppBattleSimulator
+# C++ Battle Simulator
